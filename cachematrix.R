@@ -61,7 +61,7 @@ cacheSolve(test_make) #No cache at this point
 # [2,]    1 -0.5
 
 cacheSolve(test_make) #Result retrieved from cache indicated by message
-# getting cached data
+# getting cached matrix
 #       [,1] [,2]
 # [1,]   -2  1.5
 # [2,]    1 -0.5
